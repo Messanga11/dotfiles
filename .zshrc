@@ -130,6 +130,4 @@ function fw(){
   select-pane -t 0 \;
 }
 
-function gcp() {
-  git add . && git commit -m $1 && git push $2 $3
-}
+eval "$(zoxide init zsh)"
