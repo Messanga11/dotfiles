@@ -24,6 +24,12 @@ $ pacman -S stow
 $ pacman -S stow
 ```
 
+### Fzf
+
+```
+$ pacman -S fzf
+```
+
 ## Installation
 
 First, check out the dotfiles repo in your $HOME directory using git
