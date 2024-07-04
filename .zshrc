@@ -76,7 +76,7 @@ eval "$(fzf --zsh)"
 
 # Aliases
 alias ls='ls --color'
-alias kevmax='z ~/dev/work/kevmax'
-alias projects='z ~/dev/projects'
+alias kevmax='cd ~/dev/work/kevmax'
+alias projects='cd ~/dev/projects'
 alias n="nvim"
 alias c="clear"
